@@ -1,3 +1,14 @@
+body {
+    --bege: #E6E0D6;
+    --marrom-escuro: #816D4F;
+    --marrom-claro: #B29463;
+    font-family: 'Barlow', sans-serif;
+  
+  }
+
+
+
+
 .texto-menor {
     font-size: 13px;
 }
@@ -30,3 +41,12 @@
     width:50px;
     height: 50px;
 }
+
+.botao-padrao {
+    background-color: var(--marrom-claro);
+    color: black;
+  }
+  
+  .botao-padrao:hover {
+    background-color: var(--marrom-escuro);
+  }
