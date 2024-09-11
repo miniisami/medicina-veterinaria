@@ -33,9 +33,10 @@ body {
   margin-top: 35%;
 }
 
-.felinos{
-  margin-top: 85%;
+#gatos{
+  margin-top: 50%;
 }
+
 
 @media(min-width: 768px) {
 
