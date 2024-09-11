@@ -29,6 +29,10 @@ body {
     color: #DAFF01;
 }
 
+#caninos{
+  margin-top: 15%;
+}
+
 @media(min-width: 768px) {
 
     .div-novidades {
