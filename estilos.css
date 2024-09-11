@@ -35,6 +35,7 @@ body {
 
 #gatos{
   margin-top: 500px;
+  display: flex;
 }
 
 
