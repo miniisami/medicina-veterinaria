@@ -35,7 +35,6 @@ body {
 
 #gatos{
   margin-top: 35%;
-  display: flex;
 }
 
 
@@ -45,9 +44,6 @@ body {
         width: 696px;
     }
 
-    #gatos{
-      margin-top: 500px;
-    }
     
 
 }
