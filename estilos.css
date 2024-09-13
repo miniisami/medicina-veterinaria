@@ -43,6 +43,10 @@ body {
 
 
 
+#equinos{
+  margin-top: 100%;
+}
+
 
 @media(min-width: 768px) {
 
