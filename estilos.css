@@ -41,16 +41,7 @@ body {
   margin-top: 05%;
 }
 
-#bovinos{
-  margin-top:500px;
-}
 
-#equinos{
-  margin-top: 100%;
-}
-#suinos{
-  margin-top: 50%;
-}
 
 
 @media(min-width: 768px) {
