@@ -50,7 +50,8 @@ body {
 }
 
 #veterinario{
-
+  height: 1%;
+  width: 1%;
 }
 
 @media(min-width: 768px) {
